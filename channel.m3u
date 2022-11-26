@@ -68,3 +68,5 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666025253/ei/xTJNY_v_I4aI8gPbjoPgCg/ip/92.205.10.243/id/KjG9C__D_Vg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSesUDjw3FfAybvIEerjfQywmeWIsQ216CCHZVy7dhboCIQDd56hbSAfEpymcAMJfKrnDyHFXZpf1Drs6-5v9MXBaLA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",FRANCE OPEN 750
 https://bktv@bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" status="online",MAMA 2022
+https://streamhuawei.detik.com/cxo/cxo-live/smil:cxo-live.smil/chunklist_w1527001299_b384000_sleng.m3u8
