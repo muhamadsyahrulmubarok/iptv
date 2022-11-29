@@ -2,6 +2,8 @@
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="" status="online",tvN Asia (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",tvN 1080p
+https://live-production.secureswiftcontent.com/exp=1669724433~acl=/hls-p/ingest_6362_*/*~hmac=2f73bfef96bb164d9eca732921d4ce1c329e6b23dc7f0da3ca2526595fc0cd09/hls-p/ingest_6362_720p/index.m3u8
 #EXTINF:-1 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/kljWkXS.png" group-title="Entertainment",JTBC2 (1080p) [Not 24/7]
 https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
 #EXTINF:-1 tvg-id="JTBC4.kr" tvg-logo="https://i.imgur.com/dgIXpHS.png" group-title="Entertainment",JTBC4 (1080p) [Not 24/7]
