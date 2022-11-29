@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",tvN Asia (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/kljWkXS.png" group-title="Entertainment",JTBC2 (1080p) [Not 24/7]
 https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
 #EXTINF:-1 tvg-id="JTBC4.kr" tvg-logo="https://i.imgur.com/dgIXpHS.png" group-title="Entertainment",JTBC4 (1080p) [Not 24/7]
