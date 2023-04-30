@@ -823,3 +823,5 @@ http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV DAERAH", Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",BAC 2023
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
