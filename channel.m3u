@@ -68,3 +68,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",BAC 2023
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" status="online",SUDIRMAN CUP C2
+http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/ysp/2019491701.m3u8
