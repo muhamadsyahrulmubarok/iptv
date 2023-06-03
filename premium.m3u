@@ -825,3 +825,5 @@ http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",BAC 2023
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" status="online",CITY vs MU
+https://lin-gd-001-cf.slivcdn.com/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_2.m3u8?hdntl=exp=1685845135~acl=*~hmac=5c8778074902fd9bc2363ab094687c022ad723227966b5537fc83a4be3895f0a&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/e83e5177-eee2-4f3c-825a-e0edece8a1de:TPE2/variant/180a140a61a240b31add46b5b8fc19c7/bandwidth/4789188.m3u8
